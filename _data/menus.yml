@@ -1,0 +1,32 @@
+- title: log
+  url: /blog/log
+  external: false
+
+- title: home
+  url: /blog
+  external: false
+
+- title: all posts
+  url: /blog/archive/
+  external: false
+
+- title: about
+  url: /blog/about/
+  external: false # set true if you using external link, see below
+  
+- title: library.txt
+  url: /blog/lib-txt/
+  external: false # set true if you using external link, see below
+
+- title: tags
+  url: /blog/tags/
+  external: false # set true if you using external link, see below
+
+- title: manifesto
+  url: https://alienatefurther.neocities.org/blog/manifesto/
+  external: true
+
+# Example:
+# - title: github
+#   url: https://github.com/piharpi/jekyll-klise
+#   external: true
