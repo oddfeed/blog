@@ -19,7 +19,7 @@ author:
 
 # URL settings
 url: "https://oddfeed.github.io/blog/" #
-baseurl: ""
+baseurl: "/blog/"
 permalink: /:year/:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
