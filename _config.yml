@@ -18,9 +18,9 @@ author:
   avatar: blog/assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://oddfeed.github.io" #
-baseurl: "/blog"
-permalink: /blog/:year/:title/
+url: "https://oddfeed.github.io/blog/" #
+baseurl: 
+permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
