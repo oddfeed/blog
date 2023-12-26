@@ -16,7 +16,7 @@
     >
   </small>
 </footer>
-<script src="/blog/assets/js/main.js" defer="defer"></script>
+<script src="/assets/js/main.js" defer="defer"></script>
 {%- if site.google_analytics -%}
   <!-- Google tag (gtag.js) -->
   <script
@@ -33,13 +33,13 @@
     gtag("config", "{{ site.google_analytics }}");
   </script>
 {%- endif -%}
-{%- if page.url == '/blog/archive/' -%}
-  <script src="/blog/assets/js/search.min.js"></script>
+{%- if page.url == '/archive/' -%}
+  <script src="/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('search-results'),
-      json: '/blog/assets/search.json',
+      json: '/assets/search.json',
     });
   </script>
 {%- endif -%}
