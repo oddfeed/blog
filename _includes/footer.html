@@ -34,12 +34,12 @@
   </script>
 {%- endif -%}
 {%- if page.url == '/archive/' -%}
-  <script src="blog/assets/js/search.min.js"></script>
+  <script src="https://oddfeed.github.io/blog/assets/js/search.min.js"></script>
   <script>
     var sjs = SimpleJekyllSearch({
       searchInput: document.getElementById('search-input'),
       resultsContainer: document.getElementById('search-results'),
-      json: 'blog/assets/search.json',
+      json: 'https://oddfeed.github.io/blog/assets/search.json',
     });
   </script>
 {%- endif -%}
