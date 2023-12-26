@@ -4,7 +4,7 @@ description: >- # site description
    Another worthless blog
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
-image: blog/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: https://oddfeed.github.io/blog/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 destination: _site/
@@ -15,12 +15,12 @@ author:
   bio: >- # tell to the world
    stop reading
   email: clearfoggy@pm.me # email adress
-  avatar: blog/assets/img/avatar.jpg # change with your own avatar
+  avatar: https://oddfeed.github.io/blog/assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
 url: "https://oddfeed.github.io/blog/" #
 baseurl: 
-permalink: /:title/
+permalink: /blog/:year/:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
