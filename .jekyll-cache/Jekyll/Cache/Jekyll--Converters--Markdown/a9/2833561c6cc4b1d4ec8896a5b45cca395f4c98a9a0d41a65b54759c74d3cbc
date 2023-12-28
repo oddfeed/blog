@@ -1,0 +1,3 @@
+I"k<h1 id="podcasts-on-ipod-when-running-rockbox">Podcasts on ipod when running rockbox</h1>
+<p>It works like the following you have a file of subscriptions (youtube links) the script downloads files from thoose channels converts to mp3 and writes the metadtaa to the file, if it’s downloaded a file it writes it to history.txt then excludes it going forward.</p>
+:ET

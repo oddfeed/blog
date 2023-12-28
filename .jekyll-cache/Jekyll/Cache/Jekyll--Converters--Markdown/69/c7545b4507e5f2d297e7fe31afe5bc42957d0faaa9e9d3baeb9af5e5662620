@@ -1,0 +1,12 @@
+I"^<ul>
+  <li>You can find my playlists <a href="/playlists/">here</a></li>
+  <li>You can browse some bio data  <a href="/bio-self/">here</a></li>
+  <li>You can also download <em>some</em> tags by adding tag.epub to the base url
+    <ul>
+      <li>e.g https://alienatefurther.neocities.org/acc.epub</li>
+    </ul>
+  </li>
+</ul>
+
+<p>clearfoggy@pm.me</p>
+:ET

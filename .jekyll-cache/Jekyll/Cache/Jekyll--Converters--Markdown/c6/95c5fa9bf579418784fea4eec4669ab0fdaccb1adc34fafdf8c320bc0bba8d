@@ -1,0 +1,197 @@
+I"-<table>
+  <thead>
+    <tr>
+      <th>Finished</th>
+      <th>Name</th>
+      <th>Rating</th>
+      <th>Time</th>
+      <th>Topic</th>
+      <th>SubTopic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>05/12/2023</td>
+      <td>Essentials of the transmission of mind</td>
+      <td>7</td>
+      <td>0.7</td>
+      <td>Buddhism</td>
+      <td>Zen</td>
+    </tr>
+    <tr>
+      <td>11/11/2023</td>
+      <td>What the buddha taught</td>
+      <td>8</td>
+      <td>2.8</td>
+      <td>Buddhism</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>18/10/2023</td>
+      <td>Malign Velocities</td>
+      <td>7</td>
+      <td>2.7</td>
+      <td>Politics</td>
+      <td>Acc</td>
+    </tr>
+    <tr>
+      <td>17/10/2023</td>
+      <td>The baseline protocol - Thurin</td>
+      <td>6</td>
+      <td>0.5</td>
+      <td>Health</td>
+      <td>Flexability</td>
+    </tr>
+    <tr>
+      <td>13/10/2023</td>
+      <td>Transgender 101 - Nicholas Teich</td>
+      <td>3</td>
+      <td>1.6</td>
+      <td>Health</td>
+      <td>LGBT</td>
+    </tr>
+    <tr>
+      <td>01/10/2023</td>
+      <td>Xenofeminist Manifesto</td>
+      <td>7</td>
+      <td>0.6</td>
+      <td>Politics</td>
+      <td>Feminism</td>
+    </tr>
+    <tr>
+      <td>25/09/2023</td>
+      <td>Novacene - Lovelock</td>
+      <td>8</td>
+      <td>2</td>
+      <td>Science</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>19/09/2023</td>
+      <td>Karma  - Traleg Kyabgon</td>
+      <td>6.5</td>
+      <td>3</td>
+      <td>Buddhism</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>16/09/2023</td>
+      <td>Elon Musk - Isaacson</td>
+      <td>3</td>
+      <td>7.43</td>
+      <td>Biography</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12/09/2023</td>
+      <td>The practice of not thinking</td>
+      <td>6</td>
+      <td>1.5</td>
+      <td>Buddhism</td>
+      <td>Zen</td>
+    </tr>
+    <tr>
+      <td>10/09/2023</td>
+      <td>Accelerate Manifesto</td>
+      <td>6.5</td>
+      <td>0.5</td>
+      <td>Politics</td>
+      <td>Acc</td>
+    </tr>
+    <tr>
+      <td>09/09/2023</td>
+      <td>No Speed Limit</td>
+      <td>7</td>
+      <td>1.75</td>
+      <td>Politics</td>
+      <td>Acc</td>
+    </tr>
+    <tr>
+      <td>06/09/2023</td>
+      <td>Only Ever Freedom</td>
+      <td>6</td>
+      <td>4.5</td>
+      <td>Politics</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>20/08/2023</td>
+      <td>Lust for enlightenment</td>
+      <td>4.5</td>
+      <td>3</td>
+      <td>Buddhism</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>01/08/2023</td>
+      <td>Burn Herman Pontzer</td>
+      <td>2.5</td>
+      <td>3.5</td>
+      <td>Health</td>
+      <td>Diet</td>
+    </tr>
+    <tr>
+      <td>27/07/2023</td>
+      <td>How to relax - thich</td>
+      <td>4.5</td>
+      <td>0.75</td>
+      <td>Buddhism</td>
+      <td>Zen</td>
+    </tr>
+    <tr>
+      <td>22/06/2023</td>
+      <td>Zen flesh Zen bones</td>
+      <td>6.5</td>
+      <td>2</td>
+      <td>Buddhism</td>
+      <td>Zen</td>
+    </tr>
+    <tr>
+      <td>19/06/2023</td>
+      <td>The Pure Land Sutras</td>
+      <td>7</td>
+      <td>2.5</td>
+      <td>Buddhism</td>
+      <td>Pure Land</td>
+    </tr>
+    <tr>
+      <td>06/06/2023</td>
+      <td>Three zen sutras</td>
+      <td>8</td>
+      <td>2.25</td>
+      <td>Buddhism</td>
+      <td>Zen</td>
+    </tr>
+    <tr>
+      <td>01/06/2023</td>
+      <td>How to blow up a pipeline</td>
+      <td>7.5</td>
+      <td>3.5</td>
+      <td>Climate Change</td>
+      <td>Activism</td>
+    </tr>
+    <tr>
+      <td>03/05/2023</td>
+      <td>Microplastics in human consumption</td>
+      <td>7</td>
+      <td>0.75</td>
+      <td>Health</td>
+      <td>Microplastics</td>
+    </tr>
+    <tr>
+      <td>14/04/2023</td>
+      <td>The zen teachings of bodhidharma</td>
+      <td>8</td>
+      <td>1.5</td>
+      <td>Buddhism</td>
+      <td>Zen</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<ul>
+  <li>clearfoggy@pm.me</li>
+</ul>
+:ET
