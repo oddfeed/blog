@@ -13,6 +13,10 @@ The concept of brain-self alignment has implications for various aspects of life
 
 In conclusion, the idea of brain-self alignment offers a compelling perspective on how individuals can influence their behavior by shaping their self-image. By understanding and leveraging this concept, individuals may be able to bring about positive changes in their behavior and well-being.
 
+
+---
+
+
 **References:**
 
 1.   [Neuro-Socio-Ecological and Inflammatory Mind-Body-Brain System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10544257/)
@@ -20,12 +24,4 @@ In conclusion, the idea of brain-self alignment offers a compelling perspective 
 3.   [Prosthetic Interventions for People with Transtibial Amputation](https://www.semanticscholar.org/paper/14a4a9248acf519821990f9b6133ad820d65be44)
 4.   [The Post-Museum as a Site of Rhetorical Alignment](https://www.semanticscholar.org/paper/27cd85d86fdd93e4db9b346379e387f522af5cbb)
 5.   [Longitudinal Analysis of Study Abroad Student Blog Posts](https://www.semanticscholar.org/paper/cac8df46a2f2ba1ee2f335d69073691f4c87d05e)
-
----
-**Sources:**
-- [(1) In Between the Psychological and Physiological Self – The Impact of Covid-19 Pandemic on the Neuro-Socio-Ecological and Inflammatory Mind-Body-Brain System](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10544257/)
-- [(2) Reinforced Redetection of Landmark in Pre- and Post-operative Brain Scan Using Anatomical Guidance for Image Alignment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7279932/)
-- [(3) Prosthetic Interventions for People with Transtibial Amputation: Systematic Review and Meta-analysis of High-quality Prospective Literature and Systematic Reviews Association between Mild Traumatic Brain Injury and Mental Health Problems and Self-reported Cognitive Dysfunction in Iraq and Afghanista](https://www.semanticscholar.org/paper/14a4a9248acf519821990f9b6133ad820d65be44)
-- [(4) Psychiatric Power: The Post-Museum as a Site of Rhetorical Alignment](https://www.semanticscholar.org/paper/27cd85d86fdd93e4db9b346379e387f522af5cbb)
-- [(5) Components of Reflection: A Longitudinal Analysis of Study Abroad Student Blog Posts.](https://www.semanticscholar.org/paper/cac8df46a2f2ba1ee2f335d69073691f4c87d05e)
 
