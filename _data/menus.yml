@@ -1,7 +1,3 @@
-- title: log
-  url: /blog/log
-  external: false
-
 - title: home
   url: /blog
   external: false
@@ -15,16 +11,16 @@
   external: false # set true if you using external link, see below
   
 - title: library.txt
-  url: /blog/reading.html
-  external: false # set true if you using external link, see below
+  url: https://oddfeed.github.io/org-exports/reading.html
+  external: true # set true if you using external link, see below
 
 - title: tags
   url: /blog/tags/
   external: false # set true if you using external link, see below
 
 - title: manifesto
-  url: https://alienatefurther.neocities.org/blog/manifesto/
-  external: true
+  url: 
+  external: false
 
 # Example:
 # - title: github
