@@ -18,8 +18,8 @@ author:
   avatar: https://oddfeed.github.io/blog/assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://oddfeed.github.io" #
-baseurl: /blog
+url: "https://blog.alienate.earth" #
+baseurl: 
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
