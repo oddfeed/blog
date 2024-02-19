@@ -1,21 +1,21 @@
 - title: home
-  url: /blog
+  url: 
   external: false
 
 - title: all posts
-  url: /blog/archive/
+  url: /archive/
   external: false
 
 - title: about
-  url: /blog/about/
+  url: /about/
   external: false # set true if you using external link, see below
   
 - title: library.txt
-  url: https://oddfeed.github.io/org-exports/reading.html
+  url: https://org.alienate.earth/reading.html
   external: true # set true if you using external link, see below
 
 - title: tags
-  url: /blog/tags/
+  url: /tags/
   external: false # set true if you using external link, see below
 
 - title: manifesto
