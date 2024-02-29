@@ -1,25 +1,90 @@
+# Site settings
+title: Blog # site title
+description: >- # site description
+   Another worthless blog
+lang: en-US # default lang
+timezone: Asia/Jakarta # set your timezone
+image: https://oddfeed.github.io/blog/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+mode: dark # default theme "dark" | "light"
+destination: _site/
+
+# Profile settings
+author:
+  name: The world is ending, relax. # author name
+  bio: >- # tell to the world
+   stop reading
+  email: clearfoggy@pm.me # email adress
+  avatar: https://oddfeed.github.io/blog/assets/img/avatar.jpg # change with your own avatar
+
+# URL settings
 url: "https://blog.alienate.earth" #
 baseurl: 
 permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid:
 
-# variables
-name: Your Site Name
-description: Your description here
-google_verification: null
+# Collection setting
+collections:
+  posts:
+    output: true
 
-
-# File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
-
-# Sass
-sass:
-  style: :compressed
-  sass_dir: _sass
-
-# Markdown
+# Markdown settings
 markdown: kramdown
+highlighter: rouge
 kramdown:
-  input: GFM
-  syntax_highlighter_opts:
-    disable : true
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 10
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+  - epub.sh
+  - neocities-clean.sh
+  - playlists.py
+  - _site/slides/marp
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
