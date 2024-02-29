@@ -10,6 +10,8 @@ tags: [habits, productivity]
 4.  [Artifical risk](#orgad35ad6)
 5.  [Actual risk](#org4359d1b)
 
+[Blog](../202402-blog.md)
+
 
 <a id="org2ac3f91"></a>
 
