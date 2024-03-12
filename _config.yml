@@ -23,11 +23,12 @@ fb_appid:
 header_pages:
   - index.md
   - about.md
-
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+  - tags.html
+footer: '<a href="https://blog.alienate.earth/feed">RSS</a> // follow us on <a 
+href="https://twitter.com/">twitter</a>'
 
 style: light # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
+# listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
