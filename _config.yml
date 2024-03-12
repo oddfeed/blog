@@ -5,9 +5,18 @@ description: >- # site description
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: https://oddfeed.github.io/blog/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-mode: light # default theme "dark" | "light"
+# repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+# mode: light # default theme "dark" | "light"
 destination: _site/
+remote_theme: b2a3e8/jekyll-theme-console
+header_pages:
+  - index.md
+  - about.md
+
+style: dark # dark (default), light or hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
+footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
 
 # Profile settings
 author:
@@ -55,7 +64,7 @@ jekyll_compose:
     description:
 
 # Homepage limit posts
-number_of_posts: 25
+number_of_posts: 8
 
 # Build settings
 # theme: klise
