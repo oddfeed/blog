@@ -1,23 +1,9 @@
-# Site settings
+# Example Site settings
+
+#google_analytics: UA-NNNNNNNN-N
 title: Blog # site title
 description: >- # site description
    Another worthless blog
-lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: https://oddfeed.github.io/blog/assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-# repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
-# mode: light # default theme "dark" | "light"
-destination: _site/
-remote_theme: b2a3e8/jekyll-theme-console
-header_pages:
-  - index.md
-  - about.md
-
-style: dark # dark (default), light or hacker
-listen_for_clients_preferred_style: true # false (default) or true
-
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
-
 # Profile settings
 author:
   name: The world is always ending, relax. # author name
@@ -33,67 +19,18 @@ permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
 
-# Collection setting
-collections:
-  posts:
-    output: true
+# THEME   
+header_pages:
+  - index.md
+  - about.md
 
-# Markdown settings
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  syntax_highlighter: rouge
+footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 
-# Default front matter
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
+style: light # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
 
-# Jekyll Compose default front matter
-jekyll_compose:
-  post_default_front_matter:
-    modified:
-    tags: []
-    description:
-  draft_default_front_matter:
-    modified:
-    tags: []
-    description:
-
-# Homepage limit posts
-number_of_posts: 8
-
-# Build settings
-# theme: klise
-sass:
-  style: compressed
-
-include:
-  - _redirects
-  - .htaccess
-
-exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - CHANGELOG.md
-  - README.md
-  - node_modules
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - lighthouse.png
-  - klise-*.gem
-  - klise.gemspec
-  - epub.sh
-  - neocities-clean.sh
-  - playlists.py
-  - _site/slides/marp
-# Plugins
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles

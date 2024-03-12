@@ -1,14 +1,17 @@
 ---
 layout: default
-home: true
 ---
 
-<h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
-{%- for post in site.posts limit: site.number_of_posts -%}
-<article class="post-item">
-  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
-  <h4 class="post-item-title">
-    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | escape }}</a>
-  </h4>
-</article>
-{%- endfor -%}
+{{ content }}
+{% assign contentwonl = content | strip_newlines %} {% unless contentwonl == ""  %} <br /> {% endunless %} <!-- add line break if there is any content -->
+
+{%- if site.posts.size > 0 -%}
+  <ul>
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = "%Y-%m-%d" -%}
+      [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
