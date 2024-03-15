@@ -1,5 +1,5 @@
 ---
-tags: [self, ai-posts]
+tags: [self]
 ---
 
 # Brain-Self Alignment
