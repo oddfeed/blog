@@ -25,7 +25,7 @@ header_pages:
   - about.md
   - tags.html
 footer: '<a href="https://blog.alienate.earth/feed">RSS</a> // follow us on <a 
-href="https://twitter.com/">twitter</a>'
+href="https://twitter.com/alienatefurther">twitter</a>'
 
 style: light # dark (default) or light
 # listen_for_clients_preferred_style: true # true or false (default)
