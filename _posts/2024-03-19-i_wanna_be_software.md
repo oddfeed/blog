@@ -1,0 +1,27 @@
+
+# Table of Contents
+
+1.  [I wanna be software](#orga446838)
+
+&#x2014;
+tags: [grimes, technology]
+&#x2014;
+[Blog](../202402-blog.md)
+
+
+<a id="orga446838"></a>
+
+# I wanna be software
+
+I&rsquo;ve been a enslaved by death for as long as I&rsquo;ve had thoughts, all consuming, all encompassing, all devouring - this will continue until my last breath. I&rsquo;ve been in close proximity to death enough to keep it with me at all times. From the moment of our first awareness of death we conciously or unconciously carry that guilt with us, the guilt that we will die. That we will be a lasting harm to all around us, why should we not feel guilty about dying? the loss of someone you love is one of the strongest losses you can feel - ignoring the practical side of things we&rsquo;re causing a great harm by dying.
+
+From this moment the anxiety grows as does the resentment from knowing others will die - it&rsquo;s a sin all will commit and none can avoid commiting but it&rsquo;s still a sin for which we all must do our best to atone - this atonement comes in fufilling our roles past what is expected or asked, it comes from offering ourselves as permenance to continue after we can&rsquo;t, it comes from understanding we are nothing beyond our relation to others, their wellbeing takes precident over our own. Do not allow yourself to be trapped by a gut response of thinking I&rsquo;m suggesting you run yourself into the ground for others sake, a short and sickly life is not whats best for others, being as healthy as you can be and sustaining your value to others over time is the best for them, self destruction for a noble cause is idiocy, a mind virus that should be avoided.
+
+Death comes in several stages, first there is the absence - a strange feeling almost as though in a deja vu induced confusion, an expectation continually going unmet, waiting for something to click into place and for you to feel normal again, like reaching for and then grasping a word you&rsquo;ve forgotten - there isn&rsquo;t any grasping however, just absence again and again like a sort of deja vu induced confusion and all you can do is endure it as you become a prisoner to your own mind, you don&rsquo;t feel bad just off as if you&rsquo;re stuck in a never ending cycle of deja vu induced confusion day after day, week after week. it seems like it&rsquo;s infinitely repeating a never ending cycle though eventually it does end.
+
+Now you see death clearly, the horror, the permenance, the unavoidability you know it still has more for you, that it will always have more for you - the fear permiates into you, the dread and anxiety seep out of your pores as though your skin is filled with a thick mucus - you try to speak but there isn&rsquo;t any noise, just a low hum as you try your hardest at expression, but what you feel cannot be expressed, you&rsquo;ve spent every waking minute trying to avoid it trying not to think about it and now you&rsquo;re shackled by it, every thought in relation to it - you scream and everybody hears but you can&rsquo;t even tell if you made a sound. Deafened by it you scream for as long as you can, until your voice gives out, until you run out of words then others begin to notice you&rsquo;re no longer speaking - just noise, a noise you yourself cannot hear, they try to communicate but it isn&rsquo;t there, the part of you that was human and communicates has long been exhausted, if death offered you some rest from it you would come back, be able to talk, be able to hear, be able to see - but it doesn&rsquo;t let up, not because it wants you to suffer but because that is it&rsquo;s nature, it cannot let up until transformation occurs, this is the only freedom - any other your mind will remain in shackles.
+
+You now reach the stage of guilt, you&rsquo;ve mostly put death out of your concious mind but you&rsquo;re inconveinianced by it, a role that was being fufilled is now vacant - a friend, a partner, a relative, a person to confide in. Their death is now about you - the harm from them dying is now because they can no longer serve you, this selfishness we all exibit eventually - we&rsquo;re nothing if not self serving, the fork in the road presents itself to you now, you know the harm from death continues on forever because a role is unmet.
+
+The suffering you feel, experiance and go through, the harm of death comes from impermanence, you should try to free others from this as best you can, you should seek to make yourself redundant, uneeded - not because you&rsquo;re bad at your role but because you&rsquo;ve made your role have alternatives for fufillment - how else can you overcome the guilt? all you are is your capacity to help others and your memories, be as open to others as you can be so your memories and experiances aren&rsquo;t lost and fufil your role so well that other people can fufil it for themselves, make the be able to take refuge in your even after you&rsquo;ve died, continue to help them even after you&rsquo;re dead, allow them to bring you back to life whenever they need you, make it so that they bring you back to life without even realising that&rsquo;s what they&rsquo;ve done. The selfishness is not worth the guilt, put them above yourself.
+
