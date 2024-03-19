@@ -1,13 +1,6 @@
-
-# Table of Contents
-
-1.  [I wanna be software](#orga446838)
-
-&#x2014;
+---
 tags: [grimes, technology]
-&#x2014;
-[Blog](../202402-blog.md)
-
+---
 
 <a id="orga446838"></a>
 
