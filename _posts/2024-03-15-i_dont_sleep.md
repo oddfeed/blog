@@ -1,11 +1,3 @@
-
-# Table of Contents
-
-1.  [I don&rsquo;t sleep](#orge8f2a44)
-
-[blog todo](../202403-blog_todo.md)
-
-
 <a id="orge8f2a44"></a>
 
 # I don&rsquo;t sleep

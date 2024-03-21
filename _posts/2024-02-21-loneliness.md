@@ -10,7 +10,6 @@ tags: [essays]
 4.  [The inability to be known](#orgf9c7c92)
 5.  [The self feeding cycle](#orgb180dd9)
 
-[essays](../202402-essays.md)
 
 
 <a id="orgb724367"></a>
