@@ -1,8 +1,3 @@
-
-# Table of Contents
-
-1.  [Slow drip poison](#org67fc0ad)
-
 ---
 tags: [personal, social]
 ---
