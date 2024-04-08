@@ -36,3 +36,5 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll_jam_comments
+
