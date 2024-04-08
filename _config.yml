@@ -1,6 +1,7 @@
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
+remote_theme: b2a3e8/jekyll-theme-console
 title: Blog # site title
 description: >- # site description
    Another worthless blog
@@ -31,8 +32,8 @@ style: light # dark (default) or light
 # listen_for_clients_preferred_style: true # true or false (default)
 
 jam_comments:
-   domain: JAM_COMMENTS_DOMAIN
-   api_key: JAM_COMMENTS_API_KEY
+   domain: blog.alienate.earth
+   api_key: 179|yD2nt3M6JMjVuXIpXJPEk1uGHhERso3QuO108ESq8c5177c1
 
 plugins:
   - jekyll-seo-tag
