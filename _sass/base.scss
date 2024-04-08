@@ -27,14 +27,9 @@ h1, h2 {
 
 p, ul, ol { margin: 0px;  color: var(--text-color); }
 a {
-    font-size: inherit;  /* Inherit font size from parent (h1 or h2) */
-    margin: 0;  /* Remove default margin */
-    margin-top: 22px;  /* Apply top margin */
     font-weight: bold;  /* Set font weight to bold */
-    color: white;  /* Set text color to white */
-    display: inline;  /* Display as inline element */
-    background-color: black;  /* Set background color to black */
-    text-decoration: none;  /* Remove underline from links */
+    color: #434C5E;  /* Set text color to white */
+    text-decoration: underline;  /* Remove underline from links */
 }
 
 a:hover { color: var(--background-color); background-color: var(--base-color); }
