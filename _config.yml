@@ -30,6 +30,9 @@ href="https://twitter.com/alienatefurther">twitter</a>'
 style: light # dark (default) or light
 # listen_for_clients_preferred_style: true # true or false (default)
 
+jam_comments:
+   domain: JAM_COMMENTS_DOMAIN
+   api_key: JAM_COMMENTS_API_KEY
 
 plugins:
   - jekyll-seo-tag
