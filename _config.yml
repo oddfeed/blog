@@ -2,6 +2,7 @@
 
 #google_analytics: UA-NNNNNNNN-N
 remote_theme: b2a3e8/jekyll-theme-console
+theme: jekyll-theme-console
 title: Blog # site title
 description: >- # site description
    Another worthless blog
@@ -34,6 +35,14 @@ style: light # dark (default) or light
 jam_comments:
    domain: blog.alienate.earth
    api_key: 179|yD2nt3M6JMjVuXIpXJPEk1uGHhERso3QuO108ESq8c5177c1
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "post"
+
 
 plugins:
   - jekyll-seo-tag
