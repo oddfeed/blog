@@ -23,6 +23,7 @@ fb_appid:
 
 # THEME   
 header_pages:
+  - [https://alienate.earth/](main page)
   - index.md
   - about.md
   - tags.html
