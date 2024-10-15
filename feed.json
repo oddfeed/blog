@@ -7,24 +7,6 @@
 	"items": [
 		
 			{
-				"id": "http://oddfeed.micro.blog/2024/09/14/currently-reading-thinking.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780691215013\">Thinking Clearly with Data</a> by Ethan Bueno de Mesquita 📚</p>\n",
-				"content_text": "Currently reading: [Thinking Clearly with Data](https://micro.blog/books/9780691215013) by Ethan Bueno de Mesquita 📚\n",
-				"date_published": "2024-09-14T18:10:39+01:00",
-				"url": "https://alienate.earth/2024/09/14/currently-reading-thinking.html",
-				"tags": ["books"]
-			},
-			{
-				"id": "http://oddfeed.micro.blog/2024/09/02/audio-self-learning.html",
-				"title": "[Audio] Self learning ",
-				"content_html": "<p>A small test of the podcast and features and rambling about self guided learning</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A small test of the podcast and features and rambling about self guided learning\n\n<audio controls=\"controls\" src=\"https://alienate.earth/uploads/2024/audio.mp3\" preload=\"metadata\"></audio>\n",
-				"date_published": "2024-09-02T15:28:13+01:00",
-				"url": "https://alienate.earth/2024/09/02/audio-self-learning.html",
-				"tags": ["podcast"]
-			},
-			{
 				"id": "http://oddfeed.micro.blog/2024/08/16/finished-reading-doing.html",
 				"title": "Doing good better",
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781783350506\">Doing Good Better</a> by William MacAskill 📚</p>\n<p>Interesting but uncomfortable book, if you ignore local issues and focus on objectively more important ones you&rsquo;ll do more but be stuck feeling like you&rsquo;re doing less compared to action that you instantly see the results of</p>\n",
